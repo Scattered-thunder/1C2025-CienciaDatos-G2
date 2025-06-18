@@ -10,6 +10,10 @@
 
 ---
 
+## Link al Collab de Google
+
+https://colab.research.google.com/drive/1ACHrLm0VoGpIE3w5iVgF-VPf7yp6qNQg?usp=sharing
+
 ## Descripción del Proyecto
 
 Este trabajo práctico integrador tiene como objetivo analizar la distribución territorial de farmacias en la Provincia de Buenos Aires, y evaluar su grado de cumplimiento con la Ley Provincial 10.606, que regula la cantidad de farmacias habilitadas en función de la población.
@@ -20,18 +24,17 @@ luego a partir de estas concluciones se realizó un Dashboard param mostrar los 
 
 ## Estructura del Repositorio
 
-datasets/
-├── establecimientos-farmacias-asentadas-registro-federal-refar-20241227xlsx
-├── poblacion_identificada_departamento_enero_2025.csv
+- datasets/establecimientos-farmacias-asentadas-registro-federal-refar-20241227xlsx
+
+- datasets/poblacion_identificada_departamento_enero_2025.csv
 
 Ubicación donde se almacena los Datasets utilizados para el proyecto de minería de datos, provenientes de fuentes del gobierno (Datos.gob.ar)
 
-documentos/
-└── Ley 10606.pdf
+documentos/Ley 10606.pdf
 
 Texto completo de la ley regulatoria de Provincia de Buenos Aires Ley 10.606
 
-Se menciona también la utilización de un archivo de GeoJSON para marcar geográficamente los departamentos dentro del mapa de Folium, proveniente del siguiente repositorio de GitHub: 
+Se utilizó un archivo de GeoJSON para marcar geográficamente los departamentos dentro del mapa de Folium, proveniente del siguiente repositorio de GitHub: 
 
 https://github.com/mgaitan/departamentos_argentina/blob/master/departamentos-buenos_aires.json
 
