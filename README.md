@@ -14,6 +14,10 @@
 
 https://colab.research.google.com/drive/1ACHrLm0VoGpIE3w5iVgF-VPf7yp6qNQg?usp=sharing
 
+## Link al Dashboard de Google Looker
+
+https://lookerstudio.google.com/reporting/b89cdf45-cc7b-4da4-8776-4df4d2338b6a
+
 ## Descripción del Proyecto
 
 Este trabajo práctico integrador tiene como objetivo analizar la distribución territorial de farmacias en la Provincia de Buenos Aires, y evaluar su grado de cumplimiento con la Ley Provincial 10.606, que regula la cantidad de farmacias habilitadas en función de la población.
