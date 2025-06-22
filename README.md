@@ -18,6 +18,10 @@ https://colab.research.google.com/drive/1ACHrLm0VoGpIE3w5iVgF-VPf7yp6qNQg?usp=sh
 
 https://lookerstudio.google.com/reporting/b89cdf45-cc7b-4da4-8776-4df4d2338b6a
 
+## PDF Hosteado del Mapa en Github Pages
+
+https://scattered-thunder.github.io/1C2025-CienciaDatos-G2/MapaFarmacias.html
+
 ## Descripción del Proyecto
 
 Este trabajo práctico integrador tiene como objetivo analizar la distribución territorial de farmacias en la Provincia de Buenos Aires, y evaluar su grado de cumplimiento con la Ley Provincial 10.606, que regula la cantidad de farmacias habilitadas en función de la población.
@@ -37,6 +41,10 @@ Ubicación donde se almacena los Datasets utilizados para el proyecto de minerí
 documentos/Ley 10606.pdf
 
 Texto completo de la ley regulatoria de Provincia de Buenos Aires Ley 10.606
+
+/MapaFarmacias.html
+
+Copia del Mapa de Farmacias de Folium subido en Github, ubicado en el root debido a que está hosteado
 
 Se utilizó un archivo de GeoJSON para marcar geográficamente los departamentos dentro del mapa de Folium, proveniente del siguiente repositorio de GitHub: 
 
